@@ -1,8 +1,7 @@
 (ns aoc-2015.day-01-test
   (:require 
     [clojure.java.io :as io]
-    [midje.sweet :refer :all]
-    [aoc-2015.core :refer :all]))
+    [midje.sweet :refer :all]))
 
 (println "Day 01.")
 
